@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-proj/static/css/main.84cb8c21.css",
-    "main.js": "/reactjs-proj/static/js/main.c1a195e9.js",
+    "main.css": "/reactjs-proj/static/css/main.b3d75e7b.css",
+    "main.js": "/reactjs-proj/static/js/main.9282fb2c.js",
     "static/js/787.28cb0dcd.chunk.js": "/reactjs-proj/static/js/787.28cb0dcd.chunk.js",
     "static/media/Right.png": "/reactjs-proj/static/media/Right.357cbccdc30b7617ff04.png",
     "static/media/Header-image.png": "/reactjs-proj/static/media/Header-image.7661b52f07296b72b270.png",
     "index.html": "/reactjs-proj/index.html",
-    "main.84cb8c21.css.map": "/reactjs-proj/static/css/main.84cb8c21.css.map",
-    "main.c1a195e9.js.map": "/reactjs-proj/static/js/main.c1a195e9.js.map",
+    "static/media/not-applicable.svg": "/reactjs-proj/static/media/not-applicable.05ac726e50de79471604cc6cb00999a2.svg",
+    "static/media/decrease.svg": "/reactjs-proj/static/media/decrease.ab4d90f88178233e7786e83eabcac312.svg",
+    "static/media/increase.svg": "/reactjs-proj/static/media/increase.eba33c17d0685e14c92d686f50bcc552.svg",
+    "main.b3d75e7b.css.map": "/reactjs-proj/static/css/main.b3d75e7b.css.map",
+    "main.9282fb2c.js.map": "/reactjs-proj/static/js/main.9282fb2c.js.map",
     "787.28cb0dcd.chunk.js.map": "/reactjs-proj/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84cb8c21.css",
-    "static/js/main.c1a195e9.js"
+    "static/css/main.b3d75e7b.css",
+    "static/js/main.9282fb2c.js"
   ]
 }
